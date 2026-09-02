@@ -19,6 +19,8 @@ const AboutUs = () => {
           ações voluntárias do Instituto Brasil Digital no Movimento Brasil
           Digital no eixo de Educação Digital.
         </p>
+
+        {/*
         <div className="features">
           <div className="feature">
             <h3>Conhecimento</h3>
@@ -33,6 +35,7 @@ const AboutUs = () => {
             <p>Desenvolva suas habilidades e conhecimentos</p>
           </div>
         </div>
+        */}
       </div>
     </section>
   );
